@@ -1,0 +1,36 @@
+commit fcdd6ef0bef4b606f40bbcf90077177400cc2c5a (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Sat Apr 13 13:30:24 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 343454c547622425b6b5d85420e27c171c76b59b
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Sat Apr 13 13:13:29 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 74e2dcefc077b69e73be7243c2999d4b7dcd79f0 (origin/bug1, bug1)
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Sat Apr 13 13:25:48 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 458073c218b7a4253221aeb8be2efc731e733645
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Sat Apr 13 13:07:50 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 37fde49ca33d2e18086371beda437306470c39f8
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Sat Apr 13 12:57:02 2024 +0200
+
+    Add starter code
+
+commit c8621a11ca97219609fce296b1c532ae67679d1b
+Author: teapejovska <teapejovskaa1@gmail.com>
+Date:   Fri Apr 12 17:20:56 2024 +0200
+
+    initial commit
+
